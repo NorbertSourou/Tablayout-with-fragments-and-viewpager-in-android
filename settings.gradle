@@ -1,0 +1,2 @@
+rootProject.name='tabActivity'
+include ':app'
